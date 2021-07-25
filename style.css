@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background:url("img/fon.png");
+
+    font-family:Tahoma;
+    line-height: 1.5;
+    font-size:18px;
+}
+.card{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color:#fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+
+}
+.card-photo{
+    display: block;
+    width: 180px;
+    height:180px;
+    margin:0 auto;
+    border-radius: 50%;
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color:#3D3D3D;
+}
+.card-text{
+    font-size: 12px;
+}
+.card-subtitle{
+    font-size:18px;
+    color:#3D3D3D;
+}
+.card-list{
+    list-style-position: inside;
+    font-size:14px;
+}
+.social{
+    list-style-position: inside;
+    font-size:14px;
+    }
